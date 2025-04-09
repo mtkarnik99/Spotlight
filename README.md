@@ -55,12 +55,7 @@ Issue Form
 ![image](https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/601c9b0c-8742-494a-8291-30a2db94705f)
 
 
-## Authors
-
-- [Parv Patel (002845159)](https://github.com/ParvPatel01/) - patel.parv1@northeastern.edu
-- [Meet Karnik (002795334)](https://github.com/karnikmeet/) - karnik.me@northeastern.edu
-- [Sanath LNU (002672508)](https://github.com/SanathLNU/) - lnu.sanat@northeastern.edu
-- [Chiragkumar Maisuria (002813605)](https://github.com/ChiragMaisuria01/) - maisuria.c@northeastern.edu
+## Authors : Meet Karnik
 
 ## Acknowledgments
 - [MongoDB](https://www.mongodb.com/)
