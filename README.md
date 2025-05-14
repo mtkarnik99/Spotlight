@@ -23,7 +23,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```bash
-git clone https://github.com/info-6150-spring-2024/final-project-spotlight.git
+git clone https://github.com/mtkarnik99/Spotlight.git
 ```
 2. nstall NPM packages
 ```bash
