@@ -40,19 +40,20 @@ npm start
 
 ## Usage
 Landing Page
-<img width="953" alt="image" src="https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/e5e54fc5-6943-4248-af9e-31911a8f838f">
+<img width="953" alt="home_page" src="https://github.com/user-attachments/assets/162907ab-418b-42fa-bc14-2d260353ba6f" />
 
 Issue Page
-![image](https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/b06401f6-514e-4fdc-96c6-aa82cdf46757)
+![issue_page](https://github.com/user-attachments/assets/30d8df11-3256-4482-b159-610cb40ccb7d)
+
 
 Authorities Page
-![image](https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/b44d9e95-068e-492c-a8c1-e320e069e07e)
+![authorities_page](https://github.com/user-attachments/assets/69668174-9c85-4c2c-9716-418a81a7d42f)
 
 User Profile Page
-![image](https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/e1a7881c-d1fb-411f-b379-440c18c6ff07)
+![user_profile](https://github.com/user-attachments/assets/1e8def72-2ee4-431c-8689-5707e9c709ed)
 
 Issue Form
-![image](https://github.com/info-6150-spring-2024/final-project-spotlight/assets/145090281/601c9b0c-8742-494a-8291-30a2db94705f)
+![form_page](https://github.com/user-attachments/assets/92ff9d02-a2b2-4f0a-9d07-ee872c221daf)
 
 
 ## Authors : Meet Karnik
